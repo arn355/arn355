@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently studying on : kmitl ( Computer Engineering )
+- 🔭 I’m currently studying at : kmitl ( Computer Engineering )
 - 🌱 I’m currently learning : Web development, Network, Cybersecurity
 - 💬 Ask me about : Python, C
 - ⚡ Fun fact : I love Anime / Manga / Playing Games and Guitar! 
@@ -20,15 +20,15 @@
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
+      alt="Python"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
+  <a href="https://www.programiz.com/c-programming" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
+      alt="C"
       width="40"
       height="40"
     />
@@ -39,7 +39,7 @@
   > 
     <img 
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-         alt="java"
+         alt="Java"
          width="40" 
          height="40"
     /> 
